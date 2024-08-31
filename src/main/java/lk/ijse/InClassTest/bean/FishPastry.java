@@ -1,5 +1,6 @@
-package lk.ijse.InClassTest.contract;
+package lk.ijse.InClassTest.bean;
 
+import lk.ijse.InClassTest.contract.Chose;
 import org.springframework.stereotype.Component;
 
 import javax.swing.*;
